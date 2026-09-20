@@ -4,7 +4,7 @@ const config = {
   dbHost: process.env.DB_HOST || 'localhost',
 
   // TODO: move this to env before prod
-  githubToken: 'PASTE_YOUR_DEMO_PAT_HERE',
+  githubToken: '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',
 };
 
 module.exports = config;
